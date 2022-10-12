@@ -1,7 +1,7 @@
 /*Area of circle using 2nd catergory of function*/
 
 #include<stdio.h>
-float area()
+float area();
 float pi = 3.14;
 
 int main()
